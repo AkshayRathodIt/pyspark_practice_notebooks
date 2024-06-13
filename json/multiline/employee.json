@@ -1,0 +1,27 @@
+[
+    {
+      "employee_id": 101,
+      "employee_name": "John Smith",
+      "gender": "Male",
+      "age": 30
+    },
+    {
+      "employee_id": 202,
+      "employee_name": "Emily Johnson",
+      "gender": "Female",
+      "age": 28
+    },
+    {
+      "employee_id": 303,
+      "employee_name": "Michael Brown",
+      "gender": "Male",
+      "age": 35
+    },
+    {
+      "employee_id": 404,
+      "employee_name": "Sarah Williams",
+      "gender": "Female",
+      "age": 32
+    }
+  ]
+  
